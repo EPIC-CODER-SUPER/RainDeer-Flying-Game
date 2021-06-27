@@ -12,7 +12,7 @@ var gameOver, restart;
 function preload(){
 deer_running = loadAnimation("ReinDeer_Land.png","ReinDeer_Jump.png","ReinDeer_Run.png");
 deer_collided = loadAnimation("ReinDeer_Land.png");
-backgroundImage = loadImage("background.jpg");
+backgroundImage = loadImage("Background.jpg");
 
 obstacle1 = loadImage("Obstacle_1.png");
 obstacle2 = loadImage("Obstacle_2.png");
